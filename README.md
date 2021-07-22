@@ -18,3 +18,6 @@ The first 5 rows of dataset are shown below:
 This project is following this ARIMA Model building strategy. 
 
 ![ARIMA Model Building Flow Chart ](https://html.scirp.org/file/2-1680267x4.png)
+
+The Observed Sales and Forecasted Sales with its Confidence Interval is shown below:
+![Figure] (https://github.com/XHuang2046/Restaurant_Sales_Forecasting_by_ARIMA/blob/main/res.JPG)
